@@ -1,5 +1,4 @@
 #!/bin/sh
-cd e/test/testAuto
 git add --all
 timestamp() {
   date +"at %H:%M:%S on %d/%m/%Y"
